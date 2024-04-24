@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gustavo Pena
 - 👀 I’m interested in Data Analytics and Data Science.
-- 🌱 I’m currently learning python and machine learning.
-- 💞️ I’m looking to collaborate on data science projects.
+- 🌱 I’m currently creating projects using python and Power BI.
+- 💞️ I’m looking to collaborate on Data Analytics projects.
 - 📫 How to reach me: over here on github.
 
 <!---
